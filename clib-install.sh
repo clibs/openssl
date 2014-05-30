@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./config
+./config "${@}"
 make | grep 'make depend' && {
   make depend
 }
