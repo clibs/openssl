@@ -1,0 +1,9 @@
+{
+  "name": "openssl",
+  "version": "1.0.1",
+  "repo": "clibs/openssl",
+  "description": "The OpenSSL toolkit",
+  "keywords": ["openssl", "ssl", "tls"],
+  "install": "./clib-install.sh"
+}
+
